@@ -116,4 +116,5 @@ int main() {
 
 // Search → O(n)
 
-// Delete any element → O(n + log n)
+
+// Delete any element → O(n)
